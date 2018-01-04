@@ -12,3 +12,8 @@ GNU Lesser GPL v2.1 as published by the Free Software Foundation, a copy of
 which is included in the LICENSE file. All code remains under its original
 copyright, and is redistributed in source form, without modification, as
 permitted by the LGPL.
+
+### Gentoo instructions
+Add the automorphism overlay, following the instructions
+[here](https://github.com/automorphism88/gentoo-overlay). Then, simply
+`emerge qtstyleplugins`.
